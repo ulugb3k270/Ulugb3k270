@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [admin.shorturl.uz](admin.shorturl.uz)
 
-- ⚡ Fun fact **I code average 5 hours a day**
+- ⚡ Fun fact **I code average 8 hours a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
