@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Astro JS**
 
-- 👨‍💻 All of my projects are available at [https://ulugbekasadov.uz](ulugbekasadov.uz)
+- 👨‍💻 All of my projects are available at [ulugbekasadov.uz](https://ulugbekasadov.uz)
 
 - 💬 Ask me about **React, JS, TS, Redux**
 
 - 📫 How to reach me **admin@ulugbekasadov.uz**
 
-- 📄 Know about my experiences [ulugbekasadov.uz](ulugbekasadov)
+- 📄 Know about my experiences [ulugbekasadov.uz](https://ulugbekasadov.uz)
 
 - ⚡ Fun fact **I code average 8 hours a day**
 
