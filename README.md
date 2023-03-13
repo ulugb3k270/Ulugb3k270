@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **NextJS and AnimeJS**
 
-- 👨‍💻 All of my projects are available at [admin.shorturl.uz](admin.shorturl.uz)
+- 👨‍💻 All of my projects are available at [ulugbekasadov.uz](ulugbekasadov.uz)
 
 - 💬 Ask me about **React, JS, TS, Redux**
 
 - 📫 How to reach me **admin@ulugbekasadov.uz**
 
-- 📄 Know about my experiences [admin.shorturl.uz](admin.shorturl.uz)
+- 📄 Know about my experiences [ulugbekasadov.uz](ulugbekasadov)
 
 - ⚡ Fun fact **I code average 8 hours a day**
 
