@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Astro JS**
 
-- 👨‍💻 All of my projects are available at [ulugbekasadov.uz](ulugbekasadov.uz)
+- 👨‍💻 All of my projects are available at [https://ulugbekasadov.uz](ulugbekasadov.uz)
 
 - 💬 Ask me about **React, JS, TS, Redux**
 
