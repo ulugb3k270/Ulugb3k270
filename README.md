@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulugbek</h1>
 <h3 align="center">React Developer from Tashkent</h3>
 
-- 🌱 I’m currently learning **Astro JS**
+- 🌱 I’m currently learning **Express JS**
 
 - 👨‍💻 All of my projects are available at [ulugbekasadov.uz](https://ulugbekasadov.uz)
 
